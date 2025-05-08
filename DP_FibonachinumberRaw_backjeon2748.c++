@@ -16,7 +16,7 @@ int main() {
 
     cout << fib[n] << '\n';
 
-    system("pause");
+    //system("pause");
 
     return 0;
     
